@@ -12,6 +12,12 @@ public class Application2 {
 		 * 평균 : 67
 		 *  */
 
+		float koreanGrade = 80.5f;
+		float mathGrade = 50.6f;
+		float englishGrade = 70.8f;
+		int result = (int) (koreanGrade + mathGrade + englishGrade);
+		System.out.println("총점 : " + result);
+		System.out.println("평균 : " + result/3);
 	}
 
 }
