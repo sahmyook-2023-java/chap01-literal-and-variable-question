@@ -13,6 +13,7 @@ public class Application1 {
 		 * 나누기한 몫 : 0
 		 * 나누기한 나머지 : 20
 		 * */
+
 		int num1 = 20;
 		int num2 = 30;
 		System.out.println("더하기 결과 : " + (num1 + num2));
