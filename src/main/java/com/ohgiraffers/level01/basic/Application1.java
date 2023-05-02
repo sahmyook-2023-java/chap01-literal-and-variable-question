@@ -14,7 +14,7 @@ public class Application1 {
 		 * 나누기한 몫 : 0
 		 * 나누기한 나머지 : 20
 		 * */
-		System.out.println("함종규 풀리퀘스트 테스트");
+		System.out.println("함종규 풀리퀘스트 테스트 두번째");
 	}
 
 }
