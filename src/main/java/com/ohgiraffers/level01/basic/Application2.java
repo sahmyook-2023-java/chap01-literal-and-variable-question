@@ -12,7 +12,7 @@ public class Application2 {
 		 * 면적 : 455.0
 		 * 둘레 : 97.8
 		 *  */
-		//풀었음
+
 	}
 
 }
