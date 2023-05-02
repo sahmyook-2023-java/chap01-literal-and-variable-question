@@ -11,6 +11,7 @@ public class Application2 {
 		 * 총점 : 201
 		 * 평균 : 67
 		 *  */
+
 		float koreanGrade = 80.5f;
 		float mathGrade = 50.6f;
 		float englishGrade = 70.8f;
