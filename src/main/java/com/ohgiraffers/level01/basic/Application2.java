@@ -21,6 +21,8 @@ public class Application2 {
 		System.out.println("면적 : " + area);
 		System.out.println("둘레 : " + periphery);
 
+		/**/
+
 	}
 
 }
